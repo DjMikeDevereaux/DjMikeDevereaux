@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas.
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
