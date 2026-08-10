@@ -20,22 +20,6 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-<h1 align="center"> Hi there 👋 </h1>
-<div align="center">
-  <img src="https://github.com/DjMikeDevereaux/DjMikeDevereaux/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> (Open for Hiring)</p>
-
-<h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
-  </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
-</p>
-
-<hr>
-
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
