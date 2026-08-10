@@ -37,8 +37,8 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/DjMikeDevereaux/DjMikeDevereaux/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+ ![Snake animation](https://raw.githubusercontent.com/<DjMikeDevereaux>/<TU-USUARIO>/output/github-contribution-grid-snake.svg)
+
 </p>
 
 
