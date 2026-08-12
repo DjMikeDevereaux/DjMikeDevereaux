@@ -34,6 +34,24 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
 [![](https://github-readme-streak-stats.herokuapp.com/?user=DjMikeDevereaux&theme=material-palenight)](https://github.com/DjMikeDevereaux)
 </div>
 
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100" viewBox="0 0 600 100">
+  <rect width="600" height="100" fill="#0f172a"/>
+  <g fill="none" stroke="#22c55e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 50 C80 10,160 90,230 50 S390 10,470 50 S590 90,610 50" stroke-dasharray="10 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="10" cy="50" r="6" fill="#4ade80">
+      <animateMotion dur="3s" repeatCount="indefinite">
+        <mpath xlink:href="#snakepath"/>
+      </animateMotion>
+    </circle>
+  </g>
+  <defs>
+    <path id="snakepath" d="M10 50 C80 10,160 90,230 50 S390 10,470 50 S590 90,610 50"/>
+  </defs>
+</svg>
+
+
 ----
 
 <p align="center">
