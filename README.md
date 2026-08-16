@@ -52,8 +52,9 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
 <p align="center">
 <img src="https://ghstats.dev/api/card?username=DjMikeDevereaux&custom_title=My+awesome+stats" alt="GitHub Stats Card" />
 </p>
-
+<p align="center">
 <img src="https://ghstats.dev/api/langs?username=DjMikeDevereaux&custom_title=My+awesome+stats" alt="Top Languages" />
+	</p>
 <p align="center">
 <img src="https://ghstats.dev/api/sparkline?username=DjMikeDevereaux&days=30&width=320&height=80" alt="Contribution Sparkline" />
 </p>
