@@ -51,7 +51,6 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
 
 <img src="https://ghstats.dev/api/card?username=DjMikeDevereaux&custom_title=My+awesome+stats" alt="GitHub Stats Card" />
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=DjMikeDevereaux&custom_title=My+awesome+stats)
-
    ## Contact Me:
 
 Let's discuss your unique project needs, whether it's web scraping, data extraction, or automation. I am ready to collaborate and turn your vision into a reality. 🌟
