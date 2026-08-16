@@ -49,6 +49,7 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
   <defs>
     <path id="snakepath" d="M10 50 C80 10,160 90,230 50 S390 10,470 50 S590 90,610 50"/>
 
+<img src="https://ghstats.dev/api/card?username=DjMikeDevereaux&custom_title=My+awesome+stats" alt="GitHub Stats Card" />
 
    ## Contact Me:
 
