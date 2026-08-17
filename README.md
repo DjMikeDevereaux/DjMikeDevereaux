@@ -9,17 +9,7 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
 
 ## Technologies:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-
+<img src="https://www.svgrepo.com/show/452091/python.svg" width="45px"><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="45px"><img src="https://www.svgrepo.com/show/452185/css-3.svg" width="45px"><img src="https://www.svgrepo.com/show/306593/powerbi.svg" width="45px"><img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="45px"><img src="https://www.svgrepo.com/show/508802/dbs-mysql.svg" width="45px"><img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
 
   
 <div align="center">
