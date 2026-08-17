@@ -64,7 +64,7 @@ Let's discuss your unique project needs, whether it's web scraping, PBI dashboar
       <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/miguelguillen-datascience/?skipRedirect=true"><img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px"></a>
       <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.instagram.com/dj.mikedevereaux/"><img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px"></a>
       <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://x.com/djmikedevereaux"><img src="https://www.svgrepo.com/show/452123/twitter.svg" width="48px"></a>
-      <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:ma.guillen@outlook.fr"><img src="https://www.svgrepo.com/show/373951/outlook.svg" width="45px"></a>
+      <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mailto:ma.guillen@outlook.fr"><img src="https://www.svgrepo.com/show/373951/outlook.svg" width="45px"></a>
 	   <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mailto:dj.mikedevereaux@gmail"><img src="https://www.svgrepo.com/show/452213/gmail.svg" width="45px"></a>
 	
 </section>
