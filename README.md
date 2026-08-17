@@ -58,7 +58,7 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
 
 Let's discuss your unique project needs, whether it's web scraping, PBI dashboards, data extraction, transforme, and load. I am ready to collaborate and turn your vision into a reality. 🌟
 
-<section align="center" style="margin-left: 10px; margin-bottom: 27px;">
+<section align="center" style="margin-left: 10px;">
       <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.upwork.com/freelancers/dagima6">
             <img src="https://www.svgrepo.com/show/349549/upwork.svg" width="45px">
 	  </a>
