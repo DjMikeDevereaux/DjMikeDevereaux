@@ -20,13 +20,8 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/miguelguillen-datascience/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<align="center">
-  <a href="mailto:dj.mikedevereaux@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
+  
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
@@ -82,6 +77,9 @@ Let's discuss your unique project needs, whether it's web scraping, PBI dashboar
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mailto:dj.mikedevereaux@gmail.com?subject=Hello%20Ileri,%20From%20Github">
 		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">
 	</a>
+	<a href="mailto:dj.mikedevereaux@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 </section>
 
 <!--- contact list section end --->
