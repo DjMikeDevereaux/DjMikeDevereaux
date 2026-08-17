@@ -76,7 +76,7 @@ Let's discuss your unique project needs, whether it's web scraping, PBI dashboar
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.instagram.com/dj.mikedevereaux/">
 		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://twitter.com/progdagi">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://x.com/djmikedevereaux">
 		<img src="https://www.svgrepo.com/show/452123/twitter.svg" width="48px">
 	</a>
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mailto:dj.mikedevereaux@gmail.com?subject=Hello%20Ileri,%20From%20Github">
