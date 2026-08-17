@@ -74,7 +74,7 @@ Let's discuss your unique project needs, whether it's web scraping, PBI dashboar
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://x.com/djmikedevereaux">
 		<img src="https://www.svgrepo.com/show/452123/twitter.svg" width="48px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:ma.guillen@outlook.fr">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://outlook.live.com/mail/?deeplink=mail%2F">
         <img src="https://www.svgrepo.com/show/373951/outlook.svg" width="45px">
 	</a>
 	<a href="mailto:dj.mikedevereaux@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
