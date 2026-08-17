@@ -59,24 +59,29 @@ I am Mike Guillén, a recent Data Scientist graduate. I am a tech enthusiast. Al
 Let's discuss your unique project needs, whether it's web scraping, PBI dashboards, data extraction, transforme, and load. I am ready to collaborate and turn your vision into a reality. 🌟
 
 <section align="center" style="margin-left: 10px; margin-bottom: 27px;">
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.upwork.com/freelancers/~01d2b5251ee994c494">
-		<img src="https://www.svgrepo.com/show/349549/upwork.svg" width="45px">
-	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/DjMikeDevereaux">
-		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
-	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/miguelguillen-datascience/">
-		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
-	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.instagram.com/dj.mikedevereaux/">
-		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px">
-	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://x.com/djmikedevereaux">
-		<img src="https://www.svgrepo.com/show/452123/twitter.svg" width="48px">
-	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://outlook.live.com/mail/?deeplink=mail%2F">
-        <img src="https://www.svgrepo.com/show/373951/outlook.svg" width="45px">
-	</a>
+      <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.upwork.com/freelancers/dagima6">
+            <img src="https://www.svgrepo.com/show/349549/upwork.svg" width="45px">
+      </a>
+      <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/progdagi">
+            <img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
+      </a>
+      <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/dagim-alemu/">
+            <img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
+      </a>
+      <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://instagram.com/progdagi">
+            <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px">
+      </a>
+      <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://twitter.com/progdagi">
+            <img src="https://www.svgrepo.com/show/452123/twitter.svg" width="48px">
+      </a>
+      <a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:dagimalemu@outlook.com">
+            <img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">
+      </a>
+	
+</section>
+
+<!--- contact list section end ---
+
 	<a href="mailto:dj.mikedevereaux@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 	</a>
 </p>
