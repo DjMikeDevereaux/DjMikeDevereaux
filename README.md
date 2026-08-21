@@ -59,7 +59,6 @@ Let's discuss your unique project needs, whether it's web scraping, PBI dashboar
 	
 </section>
 
-
 <!--- contact list section end --->
 
 </svg>
